@@ -36,12 +36,7 @@ The goal of this project is to build a Machine Learning model that predicts the 
 ```
 Movie_Genre_Classification/
 │
-├── movie_genre_classification.ipynb
-├── train_data.txt
-├── test_data.txt
-├── genre_model.pkl
-├── label_encoder.pkl
-├── tfidf_vectorizer.pkl
+├── main.ipynb
 ├── requirements.txt
 └── README.md
 ```
